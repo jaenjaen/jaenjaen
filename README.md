@@ -19,7 +19,9 @@ je028770@naver.com<br/>
   <img src="https://img.shields.io/badge/sqllite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</div>
-<br/>
+ 
+<br/><br/>
   
 ![jaenjaen's github stats](https://github-readme-stats.vercel.app/api?username=jaenjaen&show_icons=true&theme=buefy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenjaen&layout=compact&card_width=220)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
